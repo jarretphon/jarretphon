@@ -1,6 +1,9 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Jarret</h1>
 <h3 align="center">A dedicated Computer Science student from Singapore🌏</h3>
 <p>Passionate about coding and problem-solving, I navigate the world of algorithms and solutions. Exploring the art of programming with a cup of coffee by my side. I'm on a journey to explore the fascinating world of technology and its endless possibilities. When not in front of my computer, you'll find me learning new things and enjoying the journey of continuous growth. Let's connect and share our love for tech! 🚀</p>
+
+<img alt="coding" align="right" width="300px" src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png">
 
 - 🔭 I’m currently working on [Email Automation for Proof and Company](https://github.com/jarretphon/proof-company-email-automation-webapp)
 
